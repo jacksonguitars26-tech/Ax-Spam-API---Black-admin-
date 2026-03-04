@@ -1,0 +1,12 @@
+flask
+flask-cors
+requests
+psutil
+pyjwt
+urllib3
+pycryptodome
+protobuf-decoder
+protobuf
+cfonts
+rich
+gunicorn

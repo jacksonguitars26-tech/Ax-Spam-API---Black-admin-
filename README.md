@@ -1,1 +1,1 @@
-# Ax-Spam-API---Black-admin-
+# BLACK-ADMIN-SPAM-API
